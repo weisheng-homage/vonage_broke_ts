@@ -1,6 +1,6 @@
 # typescript broke with vonage
 
-because it is not compatible with node-fetch v3
+because it is not compatible with node-fetch v3 and `"skipLibCheck"` is disabled in tsconfig
 
 ## setup
 
